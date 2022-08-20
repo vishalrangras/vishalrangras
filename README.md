@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalrangras&label=Profile%20views&color=0e75b6&style=flat" alt="vishalrangras" /> </p>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalrangras" alt="vishalrangras" /></a> </p>
+-->
 
 - 🔭 I’m currently working on [Reinforcement Learning for real-world Traffic Signal Control](https://github.com/RL-INA/LemgoRL)
 
