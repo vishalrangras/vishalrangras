@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Vishal Rangras</h1>
-<h3 align="center">Machine Learning Researcher and Software Developer</h3>
+<h3 align="center">Machine Learning Researcher and Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalrangras&label=Profile%20views&color=0e75b6&style=flat" alt="vishalrangras" /> </p>
 
