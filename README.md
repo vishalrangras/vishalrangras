@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Reinforcement Learning for real-world Traffic Signal Control](https://github.com/RL-INA/LemgoRL)
 
-- 👯 I’m looking to collaborate on **Reinforcement Learning projects**
+- 👯 I’m looking to collaborate on **Reinforcement Learning, Machine Learning and Data Science projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalrangras](https://github.com/vishalrangras)
 
